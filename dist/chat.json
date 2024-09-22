@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ivan Ivanov"
+    },
+    {
+      "id": 3,
+      "name": "Petr Petrov"
+    },
+    {
+      "id": 5,
+      "name": "Stepan Stepanov"
+    }
+  ],
+  "messages": [
+    {
+      "id": 7,
+      "body": "message #7",
+      "timestamp": "18 вересня 2023, 12:37 7",
+      "authorId": 5,
+      "time_ms": 7
+    },
+    {
+      "id": 1,
+      "body": "message #1",
+      "timestamp": "12 вересня 2023, 12:31 1",
+      "authorId": 1,
+      "time_ms": 1
+    },
+    {
+      "id": 2,
+      "body": "message #2",
+      "timestamp": "13 вересня 2023, 12:32 2",
+      "authorId": 3,
+      "time_ms": 2
+    },
+    {
+      "id": 3,
+      "body": "message #3",
+      "timestamp": "14 вересня 2023, 12:33 3",
+      "authorId": 1,
+      "time_ms": 3
+    },
+    {
+      "id": 4,
+      "body": "message #4",
+      "timestamp": "15 вересня 2023, 12:34 4",
+      "authorId": 5,
+      "time_ms": 4
+    },
+    {
+      "id": 5,
+      "body": "message #5",
+      "timestamp": "16 вересня 2023, 12:35 5",
+      "authorId": 5,
+      "time_ms": 5
+    },
+    {
+      "id": 6,
+      "body": "message #6",
+      "timestamp": "17 вересня 2023, 12:36 6",
+      "authorId": 5,
+      "time_ms": 6
+    }
+   
+  ]
+}
