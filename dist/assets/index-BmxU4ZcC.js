@@ -14306,7 +14306,7 @@ const Rv = () => {
     console.log(e);
     try {
       O.useEffect(() => {
-        fetch("./../chat.json")
+        fetch("./chat.json")
           .then((o) => o.json())
           .then((o) => t({ type: "init", payload: o }))
           .catch((o) => t({ type: "error", payload: o }));
